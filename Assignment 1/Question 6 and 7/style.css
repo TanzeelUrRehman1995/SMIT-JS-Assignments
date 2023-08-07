@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    background-color:darkgrey ;
+    margin: 20% 20%;
+}
+div h3{
+    text-align: center;
+    background-color: aquamarine;
+}
