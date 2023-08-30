@@ -120,15 +120,15 @@
 
 // Assignment 03 15
 
-var phoneManufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
+// var phoneManufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
 
-function dropDownMenu(){
-    document.write(`<select id="manufacturerDropDown"> `);
+// function dropDownMenu(){
+//     document.write(`<select id="manufacturerDropDown"> `);
 
-    for(var i=0; i < phoneManufacturers.length; i++){
-        document.write("<option value='" + phoneManufacturers[i] + "'>" + phoneManufacturers[i] + "</option>");
+//     for(var i=0; i < phoneManufacturers.length; i++){
+//         document.write("<option value='" + phoneManufacturers[i] + "'>" + phoneManufacturers[i] + "</option>");
 
-    }
-    document.write("</select>");
-}
-dropDownMenu();
+//     }
+//     document.write("</select>");
+// }
+// dropDownMenu();
